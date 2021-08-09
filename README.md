@@ -15,7 +15,7 @@
 
 ### 递归
 
-### 冒泡排序
+### [冒泡排序](https://github.com/sanzhixiong1986/DataStructures/blob/main/README5.md)
 
 ### 选择排序
 
