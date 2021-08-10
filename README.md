@@ -19,7 +19,7 @@
 
 ### [选择排序](https://github.com/sanzhixiong1986/DataStructures/blob/main/README6.md)
 
-### 插入排序
+### [插入排序](https://github.com/sanzhixiong1986/DataStructures/blob/main/README7.md)
 
 ### 希尔排序
 
