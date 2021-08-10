@@ -21,7 +21,7 @@
 
 ### [插入排序](https://github.com/sanzhixiong1986/DataStructures/blob/main/README7.md)
 
-### 希尔排序
+### [希尔排序](https://github.com/sanzhixiong1986/DataStructures/blob/main/README8.md)
 
 ### 快速排序
 
