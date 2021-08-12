@@ -29,7 +29,7 @@
 
 ### 基数排序
 
-### 二分查找
+### [二分查找](https://github.com/sanzhixiong1986/DataStructures/blob/main/README9.md)
 
 ### 差值查询
 
