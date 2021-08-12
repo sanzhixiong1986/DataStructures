@@ -31,7 +31,7 @@
 
 ### [二分查找](https://github.com/sanzhixiong1986/DataStructures/blob/main/README9.md)
 
-### 差值查询
+### [差值查询](https://github.com/sanzhixiong1986/DataStructures/blob/main/README10.md)
 
 ### 裴波那契查找
 
