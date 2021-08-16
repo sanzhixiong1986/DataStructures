@@ -25,7 +25,7 @@
 
 ### [快速排序](https://github.com/sanzhixiong1986/DataStructures/blob/main/README14.md)
 
-### 归并排序
+### [归并排序](https://github.com/sanzhixiong1986/DataStructures/blob/main/README15.md)
 
 ### 基数排序
 
