@@ -41,6 +41,7 @@
 
 - [树的基础知识以及遍历基础](https://github.com/sanzhixiong1986/DataStructures/blob/main/README16.md)
 - [树的查找节点](https://github.com/sanzhixiong1986/DataStructures/blob/main/17/README17.md)
+- [树的删除节点（基础）](https://github.com/sanzhixiong1986/DataStructures/blob/main/17/README18.md)
 
 ### 赫夫曼树
 
